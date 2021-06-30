@@ -1,0 +1,12 @@
+void main() 
+{
+  //Exe 4
+  var ladoa = 5;
+  var ladob = 4.5;
+  var area = ladoa*ladob;
+  
+  print("Calculando a área de um quadrado");
+  print("Labo A: $ladoa");
+  print("Labo B: $ladob");
+  print("Área: $area");
+}

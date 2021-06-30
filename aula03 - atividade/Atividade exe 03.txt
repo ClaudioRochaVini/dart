@@ -1,0 +1,13 @@
+void main() 
+{
+  //Exe 3
+  var basemaior = 6;
+  var basemenor = 3;
+  var altura = 4;
+  var area =((basemaior+basemenor)*altura)/2;
+  print("Calculando área de um trapésio");
+  print("Base maior: $basemaior");
+  print("Base menor: $basemenor");
+  print("Altura: $altura");
+  print("Área: $area");
+}

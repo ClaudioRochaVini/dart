@@ -1,0 +1,8 @@
+void main() 
+{
+  //Exe 2
+  var ingresso = 28;
+  var total = ingresso*4;
+  print("Valor do ingresso: $ingresso");
+  print("O valor total para 4 pessoas é: $total");
+}

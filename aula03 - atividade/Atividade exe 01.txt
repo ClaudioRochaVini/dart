@@ -1,0 +1,12 @@
+void main() 
+{
+  dynamic nome = "Claudio";
+  dynamic sobrenome = "Rocha";
+  dynamic idade = 28;
+  dynamic endereco = "Av Santos Ferreira";
+  print("Nome: "+nome);
+  print("Sobrenome: "+sobrenome);
+  print("Idade: "+idade);
+  print("Endereco: "+endereco);
+  
+}
